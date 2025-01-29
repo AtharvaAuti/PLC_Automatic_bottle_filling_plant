@@ -1,5 +1,5 @@
 # PLC_Automatic_bottle_filling_plant
-PLC ladder logic program description for an automatic bottle filling plant
+#PLC based ladder logic program for an automatic bottle filling plant
 
 This program controls:
 
